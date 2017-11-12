@@ -3,16 +3,22 @@ body {
     text-align: center;
     background-color: black;
     color: white;
-    display: block;
-    margin: 8px;
 }
 
 h1 {
-  font-size: 58px;
-  font-weight: bold;
+  font-size: 50px;
+  font-weight: normal;
+}
+
+h2 {
+  font-family: Verdana;
+  font-size: 42px;
+  color: white;
+  font-weight: 300;
 }
 
 p {
+    font-family: Verdana;
     color: Gray;
     font-size: 21px;
 }
@@ -23,11 +29,7 @@ p {
   text-decoration: underline;
 }
 
-h2 {
-  font-size: 42px;
-  font-weight: bold;
-}
-
 .footer {
   text-align: right;
+  color: Gray;
 }
